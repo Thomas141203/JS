@@ -1,0 +1,13 @@
+body{
+    font-size: 30px;
+}
+table{
+    border : solid grey 5px;
+    border-collapse: collapse;
+}
+td{
+    border : solid grey 5px;
+    width: 3cm;
+    height: 1cm;
+    text-align: center;
+}
